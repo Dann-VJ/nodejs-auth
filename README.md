@@ -10,7 +10,9 @@
 La aplicaión esta creada inicialmente con finalidad de registrar usuarios, hacer login, y una vez que esten logueados, 
 tener la opción de obtener, modificar o  eliminar perfiles de usuario. 
 
+Keywords: bcrypt, salt, hash, jwt, jose, SingJWT. 
+
 ###  Algunos casos
-1. Al momento de crear un usuario, existe una falla de seguridad muy grande, intenta corregirla
+# 1. Al momento de crear un usuario, existe una falla de seguridad muy grande, intenta corregirla
 1. Terminar el back para que cumpla con las especificaciones de la aplicación
-1. Proteger los endpoint necesarios ya que solo usuarios autenticados pueden acceder a su perfil. Implementar alguna forma de  saber si el usuario inició sesión e identificar quién es.
+# 1. Proteger los endpoint necesarios ya que solo usuarios autenticados pueden acceder a su perfil. Implementar alguna forma de  saber si el usuario inició sesión e identificar quién es.
